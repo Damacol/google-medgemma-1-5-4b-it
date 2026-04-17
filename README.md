@@ -1,4 +1,4 @@
-# google/medgemma-1.5-4b-it - Private, Uncensored AI for Real Creators and Devs
+# google/medgemma-1.5-4b-it  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
